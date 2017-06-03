@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\java58\uc-api\src\main\main.iml" filepath="E:\java58\uc-api\src\main\main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uc-api.iml" filepath="$PROJECT_DIR$/.idea/modules/uc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uc-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/uc-api_main.iml" group="uc-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uc-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/uc-api_test.iml" group="uc-api" />
+    </modules>
+  </component>
+</project>
